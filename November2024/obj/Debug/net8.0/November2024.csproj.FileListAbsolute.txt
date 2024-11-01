@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\November2024\November2024\bin\Debug\net8.0\November2024.exe
+C:\Users\HP\source\repos\November2024\November2024\bin\Debug\net8.0\November2024.deps.json
+C:\Users\HP\source\repos\November2024\November2024\bin\Debug\net8.0\November2024.runtimeconfig.json
+C:\Users\HP\source\repos\November2024\November2024\bin\Debug\net8.0\November2024.dll
+C:\Users\HP\source\repos\November2024\November2024\bin\Debug\net8.0\November2024.pdb
+C:\Users\HP\source\repos\November2024\November2024\obj\Debug\net8.0\November2024.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\November2024\November2024\obj\Debug\net8.0\November2024.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\November2024\November2024\obj\Debug\net8.0\November2024.AssemblyInfo.cs
+C:\Users\HP\source\repos\November2024\November2024\obj\Debug\net8.0\November2024.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\November2024\November2024\obj\Debug\net8.0\November2024.dll
+C:\Users\HP\source\repos\November2024\November2024\obj\Debug\net8.0\refint\November2024.dll
+C:\Users\HP\source\repos\November2024\November2024\obj\Debug\net8.0\November2024.pdb
+C:\Users\HP\source\repos\November2024\November2024\obj\Debug\net8.0\November2024.genruntimeconfig.cache
+C:\Users\HP\source\repos\November2024\November2024\obj\Debug\net8.0\ref\November2024.dll
